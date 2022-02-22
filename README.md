@@ -1,8 +1,8 @@
 # Informações
-**Nome do candidato**: Gabriel Pinheiro Brants Gonçalves
-**Telefone**: (011) 97786-6159
-**Email**: gapigo@outlook.com.br
-**Linguagem escolhida**: Python
+- **Nome do candidato**: Gabriel Pinheiro Brants Gonçalves
+- **Telefone**: (011) 97786-6159
+- **Email**: gapigo@outlook.com.br
+- **Linguagem escolhida**: Python
 
 # Perguntas
 
